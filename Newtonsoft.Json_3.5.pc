@@ -1,0 +1,4 @@
+Name: Json.NET
+Description: Json.NET - Json.NET is a popular high-performance JSON framework for .NET
+Version: 3.5.0.0
+Libs: -r:/usr/lib/mono/gac/Newtonsoft.Json/3.5.0.0__30ad4fe6b2a6aeed/Newtonsoft.Json.dll

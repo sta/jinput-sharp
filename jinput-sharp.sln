@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jinput-sharp", "jinput-sharp\jinput-sharp.csproj", "{92540F4B-9724-414D-A9DE-FA522013E34F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client", "client\client.csproj", "{993F03F5-DDD6-4B62-8BE0-0AA0D50F1565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92540F4B-9724-414D-A9DE-FA522013E34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92540F4B-9724-414D-A9DE-FA522013E34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92540F4B-9724-414D-A9DE-FA522013E34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92540F4B-9724-414D-A9DE-FA522013E34F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{993F03F5-DDD6-4B62-8BE0-0AA0D50F1565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993F03F5-DDD6-4B62-8BE0-0AA0D50F1565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993F03F5-DDD6-4B62-8BE0-0AA0D50F1565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993F03F5-DDD6-4B62-8BE0-0AA0D50F1565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = jinput-sharp\jinput-sharp.csproj
+	EndGlobalSection
+EndGlobal
