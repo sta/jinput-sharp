@@ -54,7 +54,7 @@ jinput-sharp uses **[Json.NET]**.
     Package exported to: /usr/lib/mono/2.0/Newtonsoft.Json.dll -> ../gac/Newtonsoft.Json/3.5.0.0__30ad4fe6b2a6aeed/Newtonsoft.Json.dll
     Installed Newtonsoft.Json.dll into the gac (/usr/lib/mono/gac)
 
-#### Configuration of pkg config file for Json.NET(e.g. Newtonsoft.Json_3.5.pc) ####
+#### Configuring pkg config file for Json.NET(e.g. Newtonsoft.Json_3.5.pc) ####
 
     Name: Json.NET
     Description: Json.NET - Json.NET is a popular high-performance JSON framework for .NET
